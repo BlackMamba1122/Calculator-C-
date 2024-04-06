@@ -1,0 +1,10 @@
+C:\Users\buzz\source\repos\calculaor\calculaor\bin\Debug\calculaor.exe.config
+C:\Users\buzz\source\repos\calculaor\calculaor\bin\Debug\calculaor.exe
+C:\Users\buzz\source\repos\calculaor\calculaor\bin\Debug\calculaor.pdb
+C:\Users\buzz\source\repos\calculaor\calculaor\obj\Debug\calculaor.csproj.AssemblyReference.cache
+C:\Users\buzz\source\repos\calculaor\calculaor\obj\Debug\calculaor.body.resources
+C:\Users\buzz\source\repos\calculaor\calculaor\obj\Debug\calculaor.Properties.Resources.resources
+C:\Users\buzz\source\repos\calculaor\calculaor\obj\Debug\calculaor.csproj.GenerateResource.cache
+C:\Users\buzz\source\repos\calculaor\calculaor\obj\Debug\calculaor.csproj.CoreCompileInputs.cache
+C:\Users\buzz\source\repos\calculaor\calculaor\obj\Debug\calculaor.exe
+C:\Users\buzz\source\repos\calculaor\calculaor\obj\Debug\calculaor.pdb
